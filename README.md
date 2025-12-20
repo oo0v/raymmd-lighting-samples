@@ -11,6 +11,12 @@ This is a sample lighting setup for ray-mmd. Two different lighting presets are 
 - ray-mmd-1.5.2
 - ray-mmd-master (download directly from the master branch)
 
+## Required Model Modifications
+
+- For model ①, reset the normals of the hair materials  
+  (Edit > Normal > Average Normals - Face)
+- For model ②, enable 2-SIDE for all materials
+
 ## Installation
 
 1. Overwrite the `UserFile` folder into `MikuMikuDance_v932x64\UserFile`
@@ -18,12 +24,6 @@ This is a sample lighting setup for ray-mmd. Two different lighting presets are 
 3. Overwrite the `Lighting` folder from the downloaded `ray-mmd-master` into the placed `ray-mmd-1.5.2`
 4. Overwrite the contents of `(Override files)` into the placed `ray-mmd-1.5.2`
 5. Place models ① and ② into `UserFile/_presets/oo0/model`
-
-## Required Model Modifications
-
-- For model ①, reset the normals of the hair materials  
-  (Edit > Normal > Average Normals - Face)
-- For model ②, enable 2-SIDE for all materials
 
 When using this setup, please turn **off anti-aliasing in MMD**.
 
