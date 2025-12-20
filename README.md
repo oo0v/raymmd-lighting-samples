@@ -1,4 +1,4 @@
-# ray-mmd Lighting Samples (2 Types)
+# Ray-MMD Lighting Samples (2 Types)
 This is a sample lighting setup for ray-mmd. Two different lighting presets are prepared on frame 0 and frame 1.
 
 ## Required Files
