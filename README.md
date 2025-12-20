@@ -41,4 +41,4 @@ When using this setup, please turn **off anti-aliasing in MMD**.
 ![Frame 1 - 1F B](images/006.jpg)
 ![Frame 1 - 1F C](images/007.jpg)
 
-models by Queppael
+models by @quappael
