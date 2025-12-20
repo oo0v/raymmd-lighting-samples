@@ -1,4 +1,5 @@
 # ray-mmd Lighting Samples (2 Types)
+This is a sample lighting setup for ray-mmd. Two different lighting presets are prepared on frame 0 and frame 1.
 
 ## Required Files
 
@@ -26,6 +27,7 @@
 
 When using this setup, please turn **off anti-aliasing in MMD**.
 
+## History
 
 2025/12/20 oo0 v1.0  
 2025/12/19 oo0 Test Release
