@@ -5,7 +5,7 @@ This is a sample lighting setup for ray-mmd. Two different lighting presets are 
 
 ### https://www.quappael.com/
 - ① 伏祓 七々春(ｶｼﾞｭｱﾙﾊﾟﾝｸ)/ EL-Pr243M1(FUKUHARAE)_v1_0_2
-- ② モダンハウス ver A.0.2
+- ② モダンハウス ver A.0.2 (モダンハウス.pmx) 
 
 ### https://github.com/ray-cast/ray-mmd
 - ray-mmd-1.5.2
