@@ -34,9 +34,11 @@ When using this setup, please turn **off anti-aliasing in MMD**.
 
 ## Preview
 
-![Frame 0 - 0F A](images/002.jpg)
-![Frame 0 - 0F B](images/004.jpg)
-![Frame 1 - 1F A](images/006.jpg)
-![Frame 1 - 1F B](images/007.jpg)
+![Frame 0 - 0F A](images/001.jpg)
+![Frame 0 - 0F B](images/002.jpg)
+![Frame 0 - 0F C](images/004.jpg)
+![Frame 1 - 1F A](images/005.jpg)
+![Frame 1 - 1F B](images/006.jpg)
+![Frame 1 - 1F C](images/007.jpg)
 
 models by Queppael
