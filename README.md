@@ -29,7 +29,7 @@ When using this setup, please turn **off anti-aliasing in MMD**.
 
 ## History
 
-2026/01/07 oo0 v1.2 Improved RectangleLight shadow quality
+2026/01/07 oo0 v1.2 Improved RectangleLight shadow quality  
 2025/12/20 oo0 v1.1 Revised Readme  
 2025/12/20 oo0 v1.0  
 2025/12/19 oo0 Test Release
